@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saurabh | Software Developer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+  <h2 class="logo">Kush Mishra</h2>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Software Developer</h1>
+  <p>Focused on Data Structures, Problem Solving, and Web Development</p>
+
+  <div class="hero-buttons">
+    <a href="resume.pdf" class="btn primary" download>Download Resume</a>
+    <a href="#contact" class="btn secondary">Contact Me</a>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <h2>About Me</h2>
+  <p>
+    I am a Java developer with strong fundamentals in Data Structures and Algorithms.
+    I enjoy solving complex problems and building efficient, scalable applications.
+    Currently expanding my skills into full-stack web development.
+  </p>
+</section>
+
+<section id="skills" class="section">
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <div>Java</div>
+    <div>Data Structures & Algorithms</div>
+    <div>HTML</div>
+    <div>CSS</div>
+    <div>JavaScript</div>
+    <div>Git & GitHub</div>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <h2>Projects</h2>
+
+  <div class="project">
+    <h3>Queue using Two Stacks</h3>
+    <p>Designed a queue system using two stacks with optimized time complexity.</p>
+    <a href="#">View Code</a>
+  </div>
+
+  <div class="project">
+    <h3>Valid Parentheses Checker</h3>
+    <p>Built a stack-based solution to validate expressions efficiently.</p>
+    <a href="#">View Code</a>
+  </div>
+
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact</h2>
+  <p>Contact Number : 7520542680</p>
+  <p>Email: kushmishra@email.com</p>
+  <p>GitHub: github.com/yourprofile</p>
+  <p>LinkedIn: linkedin.com/in/yourprofile</p>
+</section>
+
+<footer>
+  <p>© 2026 Kush</p>
+</footer>
+
+</body>
+</html>
